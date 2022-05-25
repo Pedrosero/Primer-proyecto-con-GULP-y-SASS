@@ -1,0 +1,27 @@
+{
+  "name": "cvconsass",
+  "version": "1.0.0",
+  "description": "Curriculum Sass practica Gulp 1.2",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "sassdoc": "^2.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedrosero/Primer-proyecto-con-GULP-y-SASS.git"
+  },
+  "keywords": [
+    "LJAEDB"
+  ],
+  "author": "Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedrosero/Primer-proyecto-con-GULP-y-SASS/issues"
+  },
+  "homepage": "https://github.com/Pedrosero/Primer-proyecto-con-GULP-y-SASS#readme"
+}

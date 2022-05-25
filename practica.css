@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(209, 231, 203);
+}
+
+.header {
+  background-color: rgb(239, 79, 250);
+}
+
+.tabla {
+  border-collapse: separate;
+  border-color: black;
+}
+.tabla .fila1 {
+  background-color: rgb(234, 0, 0);
+  font-size: 30px;
+}
+.tabla .fila2 {
+  background-color: rgb(255, 0, 217);
+  font-size: 25px;
+}
+.tabla .fila3 {
+  background-color: rgb(255, 247, 0);
+  font-size: 20px;
+}
+.tabla .fila4 {
+  background-color: rgb(255, 149, 0);
+  font-size: 15px;
+}
+.tabla .fila5 {
+  background-color: rgb(0, 255, 42);
+  font-size: 10px;
+}
+.tabla .fila6 {
+  background-color: rgb(49, 138, 255);
+  font-size: 5px;
+}
+.tabla .fila7 {
+  background-color: rgb(17, 235, 255);
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=practica.css.map */
